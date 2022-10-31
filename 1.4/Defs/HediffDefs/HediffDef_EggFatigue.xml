@@ -4,7 +4,7 @@
 	<HediffDef>
 		<defName>VRESaurids_EggFatigue</defName>
 		<label>egg fatigue</label>
-		<description>After laying an egg, it is common with those with the oviparous gene to go through a short period of sterility till they are capable of producing another. This is only a temporary condition and causes no long term effects.</description>
+		<description>After laying an egg, it is common for those with the oviparous gene to go through a short period of sterility till they are capable of producing another. This is only a temporary condition and causes no long term effects.</description>
 		<hediffClass>HediffWithComps</hediffClass>
 		<initialSeverity>1.0</initialSeverity>
 		<comps>
